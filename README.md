@@ -10,6 +10,20 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
+<br/>
+
+I am a Computer Science student with a strong interest in problem-solving, software development, and building practical solutions. I focus on writing clean, efficient, and scalable code while continuously strengthening my foundation in Data Structures & Algorithms.
+
+My core interests include Software Development, Frontend and Machine Learning. I enjoy transforming ideas into real-world systems that are both functional and impactful.
+
+🔭 **Currently Working On:**  
+ML-based applications, full-stack web development, Pandas , and advanced problem-solving using CPP & Python  
+
+🌱 **Currently Learning:**  
+Advanced Data Structures & Algorithms, System Design, and Machine Learning  
+
+<br/>
+<br/>
 
 ## Computer Science And Engineering 3rd Year UnderGraduate from Galgotias College Of Engineering and Technology Greater Noida!
 - 🔭 UnderGraduate Looking for Job Oppertunity !
@@ -37,6 +51,9 @@
 <!-- <p align="center">
   <img height="220" src="https://gfgstatscard.vercel.app/theagrim0410"/>
 </p> -->
+
+<br/>
+<br/>
 
 ## 📊 My Github Stats
 
