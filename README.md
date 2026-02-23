@@ -9,9 +9,7 @@
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
 <br/>
-
 I am a Computer Science student with a strong interest in problem-solving, software development, and building practical solutions. I focus on writing clean, efficient, and scalable code while continuously strengthening my foundation in Data Structures & Algorithms.
 
 My core interests include Software Development, Frontend and Machine Learning. I enjoy transforming ideas into real-world systems that are both functional and impactful.
@@ -22,7 +20,6 @@ ML-based applications, full-stack web development, Pandas , and advanced problem
 🌱 **Currently Learning:**  
 Advanced Data Structures & Algorithms, System Design, and Machine Learning  
 
-<br/>
 <br/>
 
 ## Computer Science And Engineering 3rd Year UnderGraduate from Galgotias College Of Engineering and Technology Greater Noida!
@@ -38,7 +35,6 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 
 
 <br/>
-<br/>
 
 ## 🚀 Competitive Programming Stats
 
@@ -53,13 +49,11 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 </p> -->
 
 <br/>
-<br/>
 
 ## 📊 My Github Stats
 
 [![theagrim0410's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theagrim0410&theme=merko)](https://github.com/theagrim0410/github-readme-activity-graph)
 
-<br/>
 <br/>
 
 ## 🌐 Socials:
@@ -78,7 +72,6 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 </a>
 </p>
 
-<br/>
 <br/>
 
 ## 💻 Tech Stack:
