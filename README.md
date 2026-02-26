@@ -50,9 +50,8 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 
 <br/>
 
-## 📊 My Github Stats
 
-[![theagrim0410's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theagrim0410&theme=merko)](https://github.com/theagrim0410/github-readme-activity-graph)
+
 
 <br/>
 
@@ -105,11 +104,22 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/theagrim0410/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theagrim0410's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theagrim0410&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+</p> -->
+
+## 📊 My Github Stats
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=theagrim0410&theme=merko&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theagrim0410&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" />
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=theagrim0410&icon=0&color=0)](https://visitcount.itsvg.in)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF671F&height=120&section=footer"/>
