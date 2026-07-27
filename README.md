@@ -2,11 +2,22 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+AGRIM+SAXENA;I'M+20+YEARS+OLD;I+AM+FROM+BAREILLY,+UP,+INDIA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Agrim Saxena</h1> 
+<h1 align="center">Hi , I'm Agrim Saxena</h1> 
                                      <p align="center">  I'm a Passionate  </p> 
                                      <p align="center">  Python Developer ||  Problems Solved on DSA ||  DSA Lover  || Frontend Engineer</p>
       
-<h3 align="center">Be Aware Be Safe !</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50"/>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
@@ -24,16 +35,16 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 <br/>
 
 ## Computer Science And Engineering 3rd Year UnderGraduate from Galgotias College Of Engineering and Technology Greater Noida!
-- 🔭 UnderGraduate Looking for Job Oppertunity !
-- ⚡ Fun fact: I love making Sketch Painting and listening to music.
-- 👨‍💻 Problem Solver , Programmer and Frontend Engineer.
-- 💜 Python, C++, DBMS, OOPs, DSA, Flask.
-- ❤️ Learning DSA, Latest Technology and Trends.
-- 🏃 LinkedIn Profile -  https://www.linkedin.com/in/agrim-saxena-5a24b5256/
-- ❓ Leetcode - https://leetcode.com/theagrim0410/
-- 🤓 Codeforces - https://codeforces.com/profile/theagrim0410
-- 🤗 GFG - https://www.geeksforgeeks.org/profile/theagrim0410
-- 🔗Portfolio - https://about-frontened.onrender.com/
+- <img src="https://img.icons8.com/fluency/20/graduation-cap.png"/> Undergraduate looking for Job Opportunities!
+- <img src="https://img.icons8.com/fluency/20/paint-palette.png"/> Fun fact: I love sketch painting and listening to music.
+- <img src="https://img.icons8.com/fluency/20/source-code.png"/> Problem Solver, Programmer, and Frontend Engineer.
+- <img src="https://img.icons8.com/fluency/20/python.png"/> Python, C++, DBMS, OOPs, DSA, Flask.
+- <img src="https://img.icons8.com/fluency/20/learning.png"/> Learning DSA, the latest technologies, and industry trends.
+- <img src="https://img.icons8.com/color/20/linkedin.png"/> LinkedIn: https://www.linkedin.com/in/agrim-saxena-5a24b5256/
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18"/> LeetCode: https://leetcode.com/theagrim0410/
+- <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="18" height="18"/> Codeforces: https://codeforces.com/profile/theagrim0410
+- <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="18" height="18"/> GeeksforGeeks: https://www.geeksforgeeks.org/profile/theagrim0410
+- <img src="https://img.icons8.com/fluency/20/domain.png"/> Portfolio: https://about-frontened.onrender.com/
 
 
 <br/>
@@ -97,7 +108,7 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 <img height="45" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img height="45" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 <div align="center">
@@ -106,17 +117,10 @@ Advanced Data Structures & Algorithms, System Design, and Machine Learning
 
 <br/>
 
-<!-- <p align="center">
-    <a href="https://github.com/theagrim0410/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theagrim0410's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theagrim0410&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
 
 ## 📊 My Github Stats
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=theagrim0410&theme=merko&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theagrim0410&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" />
