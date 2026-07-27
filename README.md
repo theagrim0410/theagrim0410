@@ -7,7 +7,8 @@
                                      <p align="center">  Python Developer ||  Problems Solved on DSA ||  DSA Lover  || Frontend Engineer</p>
       
 <h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 <br/>
 I am a Computer Science student with a strong interest in problem-solving, software development, and building practical solutions. I focus on writing clean, efficient, and scalable code while continuously strengthening my foundation in Data Structures & Algorithms.
