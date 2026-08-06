@@ -27,10 +27,10 @@ I am a Computer Science student with a strong interest in problem-solving, softw
 My core interests include Software Development, Frontend and Machine Learning. I enjoy transforming ideas into real-world systems that are both functional and impactful.
 
 🔭 **Currently Working On:**  
-ML-based applications, full-stack web development, Pandas , and advanced problem-solving using CPP & Python  
+ML-based Projects, full-stack web development, Pandas , and advanced problem-solving using CPP.
 
 🌱 **Currently Learning:**  
-Advanced Data Structures & Algorithms, System Design, and Machine Learning  
+Advanced Data Structures & Algorithms, and Machine Learning  
 
 <br/>
 
